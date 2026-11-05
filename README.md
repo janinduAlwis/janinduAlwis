@@ -3,6 +3,7 @@
 🎓 BICT (Hons) Undergraduate at the University of Sri Jayewardenepura  
 💻 Specialising in Software Technology  
 🚀 Interested in Software Engineering, Full-Stack Development and AI
+
 🔍 Currently seeking Software Engineering / Full-Stack Development internship opportunities.
 
 ## About Me
