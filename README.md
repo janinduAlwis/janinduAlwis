@@ -33,7 +33,7 @@ I'm an undergraduate developer interested in building practical web and mobile a
 - **[Agent MedLink](https://github.com/hesandasamadith/agent-medlink)** – AI-powered healthcare appointment platform.
 - **[Live Crowds](https://github.com/janinduAlwis/Live-Crowds)** – Tourist crowd tracking web application.
 - **[AI Content Detector](https://github.com/janinduAlwis/fake_content_detector)** – Mobile application for AI-generated image detection.
-- **[Smart Construction Helmet](https://github.com/janinduAlwis/smart-construction-worker-helmet-monitoring-system)** – IoT-based worker safety system.
+- **[Smart Construction Helmet](https://github.com/itspsb2/Smart-Construction-Helmet)** – IoT-based worker safety system.
 
 ## Currently Learning
 - Full-Stack Development
