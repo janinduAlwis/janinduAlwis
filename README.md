@@ -41,9 +41,10 @@ I'm an undergraduate developer interested in building practical web and mobile a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janinduAlwis&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinduAlwis&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=janinduAlwis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=janinduAlWis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## Currently Learning
 - Full-Stack Development
