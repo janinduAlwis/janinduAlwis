@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Janindu Alwis 👋
 
-<!--
-**janinduAlwis/janinduAlwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BICT (Hons) Undergraduate at the University of Sri Jayewardenepura  
+💻 Specialising in Software Technology  
+🚀 Interested in Software Engineering, Full-Stack Development and AI
 
-Here are some ideas to get you started:
+## About Me
+I'm an undergraduate developer interested in building practical web and mobile applications. I enjoy learning new technologies, solving problems, and turning ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Python, C, C#, Java, SQL
+- **Frontend:** React.js, Next.js, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Mobile:** React Native, Expo
+- **Databases:** MongoDB, MySQL, Firebase
+- **Tools:** Git, GitHub, Postman, Docker
+
+## Featured Projects
+
+- **[BoardLK](https://github.com/janinduAlwis/BoardLK)** – Mobile boarding and accommodation discovery application.
+- **Agent MedLink** – AI-powered healthcare appointment platform.
+- **Live Crowds** – Tourist crowd tracking web application.
+- **AI Content Detector** – Mobile application for AI-generated image detection.
+- **Smart Construction Helmet** – IoT-based worker safety system.
+
+## Currently Learning
+- Full-Stack Development
+- AI Integration
+- Software Engineering Practices
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/janindu-alwis
+- Email: janidujayd@gmail.com
